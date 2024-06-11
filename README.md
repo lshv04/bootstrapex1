@@ -6,7 +6,9 @@
 
 # Projeto introdutório ao Framework Bootstrap
 
-Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de estudar o framework Bootsrap. O mesmo éamplamente utilizado para criar sites responsivos e modernos, facilitando o desenvolvimento com sua vasta coleção de componentes prontos e um sistema de grid flexível.  
+Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de estudar o framework Bootsrap. O mesmo é amplamente utilizado para criar sites responsivos e modernos, facilitando o desenvolvimento com sua vasta coleção de componentes prontos e um sistema de grid flexível.    
+
+Como tema, aproveitei minha paixão pelo boxe e simulei uma academia e distribuidora de materiais esportivos do ramo chamada 'LSHV'.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 HTML5: Para a marcação semântica do conteúdo.  
