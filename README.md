@@ -11,7 +11,7 @@ Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de est
 ## ✔️ Técnicas e tecnologias utilizadas
 HTML5: Para a marcação semântica do conteúdo.  
 CSS3: Para estilização e layout, 
-Framework Bootstrap: Utilização de diversos componentes como:
+Framework Bootstrap: Utilização de diversos componentes como:  
 - Página 100% responsiva com diversos breakpoints  
 - Navbar responsivo com Menu em "Hamburguer"  
 - Carrossel com imagens amplas e texto  
