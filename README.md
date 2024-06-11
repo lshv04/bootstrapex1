@@ -28,7 +28,7 @@ Framework Bootstrap: Utilização de diversos componentes como:
       
 ## 📁 Acesso ao projeto  
 
-[Veja o projeto final do curso em funcionamento](https://lshv04.github.io/bootstrapex1/#local).
+[Veja o projeto final do curso em funcionamento](https://lshv04.github.io/bootstrapex1/).
 
 Neste repositório você tem acesso a todo o material produzido no projeto.
 
